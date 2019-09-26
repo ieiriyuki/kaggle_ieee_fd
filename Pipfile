@@ -21,6 +21,7 @@ xgboost = "==0.90"
 lightgbm = "==2.2.3"
 catboost = "==0.16"
 matplotlib = "==3.1.1"
+pyarrow = "==0.14.1"
 
 [requires]
 python_version = "3.6"
